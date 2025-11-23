@@ -8,7 +8,7 @@ Ele mostra como essas ferramentas estão transformando a maneira como criamos, a
 
 ##  Sobre o projeto
 
-**O Futuro em Nossas Mãos** é um eBook de 3 páginas criado com apoio de ferramentas generativas:
+**O Futuro em Nossas Mãos** é um eBook criado com apoio de ferramentas generativas:
 
 -  **Roteirização e texto:** ChatGPT  
 -  **Arte visual da capa:** Leonardo AI  
@@ -17,7 +17,7 @@ Ele mostra como essas ferramentas estão transformando a maneira como criamos, a
 O objetivo é **inspirar pessoas** a enxergar a inteligência artificial como uma aliada na criatividade humana, e não como uma substituta.
 
 
-## 📄 Acesse o eBook
+##  Acesse o eBook
 
  **Baixe ou leia o PDF aqui:**  
  [Clique para abrir o eBook](https://github.com/GabrielCunhafm/ebook_ia_generativa)
